@@ -1,0 +1,32 @@
+Blue Player placed a S at row: 3 and column: 0
+
+Red Player placed a O at row: 3 and column: 2
+
+Blue Player placed a O at row: 1 and column: 1
+
+Red Player placed a S at row: 2 and column: 2
+
+Blue Player placed a O at row: 0 and column: 3
+
+Red Player placed a O at row: 0 and column: 2
+
+Blue Player placed a O at row: 1 and column: 2
+
+Red Player placed a S at row: 0 and column: 1
+
+Blue Player placed a O at row: 1 and column: 0
+
+Red Player placed a S at row: 1 and column: 3
+
+Blue Player placed a S at row: 0 and column: 0
+
+Blue Player placed a S at row: 3 and column: 3
+
+Red Player placed a O at row: 2 and column: 0
+
+Blue Player placed a S at row: 2 and column: 3
+
+Blue Player placed a S at row: 2 and column: 1
+
+Blue Player placed a S at row: 3 and column: 1
+
